@@ -255,7 +255,7 @@ main aside {
     height: 88vh;
 }
 
-/* will be shown only on mobile and tablets */
+/* will be shown only on mobile */
 main aside button#close-btn {
     display: none;
 }
