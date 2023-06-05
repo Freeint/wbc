@@ -328,7 +328,7 @@ main aside .updates a {
 }
 
 main aside .updates a:hover {
-    box-shadow: 0 1rem 2rem var(--color-primary-light);
+    box-shadow:  4rem 2rem var(--color-primary-light);
 }
 
 /* ============================ MIDDLE ======================== */
