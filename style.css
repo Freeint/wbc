@@ -43,7 +43,7 @@ html {
 body {
     background: var(--color-light);
     font-family: poppins, sans-serif;
-    min-height: 100vh;
+    min-height: 50vh;
     color: var(--color-dark);
 }
 
