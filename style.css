@@ -41,6 +41,7 @@ html {
 }
 
 body {
+    height: 100vh;
     background: var(--color-light);
     font-family: poppins, sans-serif;
     min-height: 50%;
