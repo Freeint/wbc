@@ -245,7 +245,7 @@ nav .profile-area button {
 /* =================== ASIDE & SIDEBAR ==================== */
 main {
     display: grid;
-    grid-template-columns: 10rem auto 30%;
+    grid-template-columns: 16rem auto 30%;
     gap: 2rem;
     width: 96%;
     margin: 1rem auto 4rem;
