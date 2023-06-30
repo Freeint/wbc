@@ -614,3 +614,9 @@ main .recent-transactions .card-details .card {
     nav .search-bar {
         display: none;
     } 
+    
+     .Wallet {
+        font-size: 20;
+        color: green;
+    }
+    
