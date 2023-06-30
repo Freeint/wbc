@@ -508,7 +508,6 @@ canvas#chart {
 
 /* ===================== INVESTMENTS ========================== */
 main section.right .investments {
-    background: var(--color-white);
     border-radius: var(--card-border-radius);
 }
 
